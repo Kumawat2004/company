@@ -127,7 +127,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div>
               <h2 className="text-2xl md:text-3xl font-bold mb-2">
-                Need a team fast? Let's talk.
+                Need a team fast? Let&apos;s talk.
               </h2>
               <p className="text-gray-300">
                 Get your project started with our expert development team

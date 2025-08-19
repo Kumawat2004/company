@@ -108,7 +108,7 @@ export default function CaseStudies() {
               Success <span className="text-gradient">Stories</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Discover how we've helped businesses transform their operations with innovative software solutions
+              Discover how we&apos;ve helped businesses transform their operations with innovative software solutions
             </p>
           </div>
 
@@ -172,7 +172,7 @@ export default function CaseStudies() {
             <div className="bg-blue-50 rounded-lg p-8">
               <h2 className="text-2xl font-bold mb-4">Ready to Create Your Success Story?</h2>
               <p className="text-gray-600 mb-6">
-                Let's discuss how we can help transform your business with innovative technology solutions
+                Let&apos;s discuss how we can help transform your business with innovative technology solutions
               </p>
               <Link href="/quote" className="btn-primary">
                 Start Your Project

@@ -97,7 +97,7 @@ export default function About() {
             <Card>
               <h2 className="text-2xl font-bold mb-4 text-blue-600">Our Mission</h2>
               <p className="text-gray-600 leading-relaxed">
-                To empower businesses with innovative, scalable, and secure software solutions that drive growth and digital transformation. We believe in creating technology that makes a meaningful impact on our clients' success.
+                To empower businesses with innovative, scalable, and secure software solutions that drive growth and digital transformation. We believe in creating technology that makes a meaningful impact on our clients&apos; success.
               </p>
             </Card>
             

@@ -124,7 +124,7 @@ export default function Quote() {
               Get a <span className="text-gradient">Quote</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Tell us about your project and we'll provide you with a detailed proposal and timeline within 24 hours.
+              Tell us about your project and we&apos;ll provide you with a detailed proposal and timeline within 24 hours.
             </p>
           </div>
 

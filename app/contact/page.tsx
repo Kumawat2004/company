@@ -74,7 +74,7 @@ export default function Contact() {
               Get in <span className="text-gradient">Touch</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Ready to start your project? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+              Ready to start your project? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
             </p>
           </div>
 
@@ -85,7 +85,7 @@ export default function Contact() {
               
               {submitStatus === 'success' && (
                 <div className="bg-green-50 border border-green-200 rounded-lg p-4 mb-6">
-                  <p className="text-green-800">Thank you! Your message has been sent successfully. We'll get back to you soon.</p>
+                  <p className="text-green-800">Thank you! Your message has been sent successfully. We&apos;ll get back to you soon.</p>
                 </div>
               )}
 
@@ -191,7 +191,7 @@ export default function Contact() {
                   <span className="text-gray-500">Interactive Map</span>
                 </div>
                 <p className="text-gray-600">
-                  Visit our office in the heart of Mumbai's business district. We're easily accessible by public transport.
+                  Visit our office in the heart of Mumbai&apos;s business district. We&apos;re easily accessible by public transport.
                 </p>
               </Card>
 

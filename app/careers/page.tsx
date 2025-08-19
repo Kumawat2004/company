@@ -130,7 +130,7 @@ export default function Careers() {
               Join Our <span className="text-gradient">Team</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Be part of a dynamic team that's shaping the future of technology. We're always looking for talented individuals who are passionate about innovation.
+              Be part of a dynamic team that&apos;s shaping the future of technology. We&apos;re always looking for talented individuals who are passionate about innovation.
             </p>
           </div>
 
@@ -244,9 +244,9 @@ export default function Careers() {
           {/* CTA */}
           <div className="text-center mt-16">
             <div className="bg-gray-50 rounded-lg p-8">
-              <h2 className="text-2xl font-bold mb-4">Don't see a perfect match?</h2>
+              <h2 className="text-2xl font-bold mb-4">Don&apos;t see a perfect match?</h2>
               <p className="text-gray-600 mb-6">
-                We're always interested in meeting talented individuals. Send us your resume and we'll keep you in mind for future opportunities.
+                We&apos;re always interested in meeting talented individuals. Send us your resume and we&apos;ll keep you in mind for future opportunities.
               </p>
               <Link href="/contact" className="btn-primary">
                 Send Your Resume
