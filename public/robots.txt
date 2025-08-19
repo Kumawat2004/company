@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://futureglobalit.com/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Allow search engines to crawl all public pages
+Allow: /
+Allow: /services
+Allow: /solutions
+Allow: /case-studies
+Allow: /about
+Allow: /careers
+Allow: /blog
+Allow: /contact
+Allow: /quote
